@@ -26,9 +26,9 @@ Built for **learning, productivity, and fun**, Aira adapts to your needs with ea
 ---
 
 ## 📂 Folder Structure
-Aira-AI-Chatbot/
-│── index.html # Main UI
-│── style.css # Styling
-│── script.js # Chatbot logic
-│── assets/ # Images, icons, resources
-│── README.md # Documentation
+-Aira-AI-Chatbot/
+-│── index.html # Main UI
+-│── style.css # Styling
+-│── script.js # Chatbot logic
+-│── assets/ # Images, icons, resources
+-│── README.md # Documentation
